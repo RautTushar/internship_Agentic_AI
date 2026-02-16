@@ -5,7 +5,7 @@ Advanced AI Agent development featuring stateful orchestration with LangGraph, P
 This repository tracks my progress and deliverables during my Agentic AI Internship at Innomatics Research Labs. The focus is on building scalable, autonomous AI systems that move beyond simple prompts into complex, stateful workflows.
 
 Category,Technology
-Language: Python 3.11+ 🐍
+/nLanguage: Python 3.11+ 🐍
 Orchestration: LangChain, LangGraph ⛓️🐦
 API Framework: FastAPI 
 Cloud/DevOps: AWS ☁️
